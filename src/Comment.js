@@ -8,7 +8,7 @@ class Comment extends Component {
       <div className="comment">
         {this.props.commentText}
       </div>
-    )
+      )
   }
 }
 export default Comment;
